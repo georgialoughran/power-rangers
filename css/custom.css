@@ -1,0 +1,29 @@
+#header{
+	text-align: center;
+	color: white;
+	font-family: Lucida Handwriting;
+	padding: 30px;
+	background-color: #800000;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  position: sticky;
+  background-color: white;
+  color: #800000;
+}
+
+li a {
+  display: block;
+  color: #800000;
+  text-align: center;
+  padding: 30px 30px;
+  background-color: #800000;
+  text-decoration: none;
+}
+
+
+
